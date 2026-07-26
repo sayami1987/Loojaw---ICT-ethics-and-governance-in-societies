@@ -8,7 +8,7 @@ This e-portfolio shows what I learned about the benefits and ethical risks of ar
 
 <img width="916" height="401" alt="image" src="https://github.com/user-attachments/assets/556d4934-e951-4c63-9a85-1d942911e64c" />
 
-
+[Access the article through its DOI](https://doi.org/10.1002/mhw.34694)
 
 ### Summary of the Artefact
 
