@@ -13,9 +13,9 @@ This e-portfolio shows what I learned about the benefits and ethical risks of ar
 
 Canady reports on an American Psychological Association survey of 1,742 psychologists. AI use for work increased from 29% in 2024 to 56% in 2025. Psychologists mainly used it for emails, content, summaries and notes. Although 62% believed technology improved efficiency and accuracy, 92% had concerns about privacy breaches, social harm, bias, poor testing and hallucinations (Canady 2025, p. 5).
 
-### Justification for Choosing the Artefact
+### Justification and Personal Reflection
 
-I chose this article because psychology is a high-stakes setting where mistakes may harm vulnerable people. AI may reduce administrative work, but private client information requires strong security, informed consent and accountability. It showed me that efficiency should not override patient rights and that clinical AI must be tested, monitored and reviewed by qualified humans.
+I chose this article because I had mostly thought of AI as a study or productivity tool, not something used by psychologists with sensitive patient information. I felt surprised by how quickly psychologists had adopted AI, but I was also concerned that 92% reported ethical risks. As an IT student, this made me realise that making a system faster is not enough. Privacy, consent, security and possible harm must also be considered. I learned that AI in mental health should support qualified professionals rather than replace their judgement.
 
 ---
 
@@ -29,9 +29,9 @@ I chose this article because psychology is a high-stakes setting where mistakes 
 
 Vieriu and Petrea studied 85 second-year university students with experience using AI. They found that 95.6% used AI academically, and most believed it improved learning, performance and efficiency. Students nevertheless worried about inaccurate information, weaker critical thinking, dependence and privacy. The authors support balanced use in which AI assists rather than replaces human learning (Vieriu & Petrea 2025, pp. 4–6).
 
-### Justification for Choosing the Artefact
+### Justification and Personal Reflection
 
-I selected this article because it relates directly to my life as a university student. AI can explain difficult ideas and save time, but easy answers may discourage independent problem-solving. I learned that responsible use means checking information, following assessment rules and remaining accountable for submitted work. AI should support my understanding, not complete the learning for me.
+I selected this article because it relates closely to my experience as an international IT student. I sometimes use AI to simplify technical explanations, organise ideas and understand difficult academic language. I feel relieved when AI makes a confusing topic easier, but I also worry that using it too often could weaken my independent problem-solving skills. This article made me question whether AI is helping me learn or only helping me finish tasks faster. I learned that I must verify the information and remain responsible for understanding everything I submit.
 
 ---
 
@@ -45,9 +45,9 @@ I selected this article because it relates directly to my life as a university s
 
 Andrade-Hidalgo, Mio-Cango and Iparraguirre-Villanueva reviewed 54 publications about AI, writing and plagiarism. They examined detection tools, regulation strategies and methods for identifying AI-generated text. The review discusses Turnitin and GPTZero but warns that automated detection should be combined with human judgement. It recommends clear rules, AI literacy and protection of human reasoning (Andrade-Hidalgo, Mio-Cango & Iparraguirre-Villanueva 2025, pp. 1062–1065).
 
-### Justification for Choosing the Artefact
+### Justification and Personal Reflection
 
-I chose this source because this assessment permits AI for planning, making the boundary between assistance and misconduct personally relevant. AI use becomes unethical when generated work is presented as personal work, false references are accepted or required learning is avoided. I should disclose AI assistance, verify every source and ensure my final reflection demonstrates my own understanding.
+I chose this article because AI use is directly relevant to this assessment. I used AI during planning, but the final portfolio must demonstrate my own understanding. I felt concerned when I learned that AI can produce convincing writing with false references because incorrect information may not be immediately obvious. This article helped me understand that ethical AI use requires honesty, transparency and human checking. I should disclose how I used AI, verify every citation and avoid presenting generated work as entirely my own.
 
 ---
 
@@ -69,9 +69,10 @@ I chose this source because this assessment permits AI for planning, making the 
 
 The Week 2 workshop focused on how artificial intelligence is being used in day to day life and the ethical concerns that come with it. The class discussion considered both the benefits of AI, such as faster access to information and improved efficiency, and risks such as inaccurate outputs, privacy problems, bias and over-reliance. The workshop helped me connect the ideas from the three selected articles to practical situations in education, mental health and academic research.
 
-### Justification for Choosing the Artefact
 
-I selected this workshop artefact because it demonstrates that my understanding developed through class participation as well as independent reading. The discussion showed me that AI is not simply good or bad; its impact depends on how it is designed, tested and used. My main takeaway was that human judgement and accountability must remain important whenever AI affects students, patients or research. As a future ICT professional, I should consider privacy, fairness, accuracy and possible harm before supporting or developing an AI system.
+### Justification and Personal Reflection
+
+I selected this workshop artefact because the class discussion helped me think about AI beyond its convenience. Before the workshop, I mainly focused on how AI could save time and provide quick information. I felt surprised by how many risks can arise from inaccurate outputs, bias, privacy breaches and over-dependence. The discussion made me more cautious rather than completely negative about AI. My main lesson was that humans must remain responsible for important decisions. As a future ICT professional, I should consider fairness, security and possible harm before supporting an AI system.
 
 ---
 
