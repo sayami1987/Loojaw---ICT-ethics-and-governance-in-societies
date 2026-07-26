@@ -8,7 +8,6 @@ This e-portfolio shows what I learned about the benefits and ethical risks of ar
 
 <img width="916" height="401" alt="image" src="https://github.com/user-attachments/assets/556d4934-e951-4c63-9a85-1d942911e64c" />
 
-[Access the article through its DOI](https://doi.org/10.1002/mhw.34694)
 
 ### Summary of the Artefact
 
@@ -25,7 +24,6 @@ I chose this article because psychology is a high-stakes setting where mistakes 
 <img width="536" height="392" alt="image" src="https://github.com/user-attachments/assets/44048a37-ce06-40ee-b6ee-980a27e3a537" />
 
 
-**Source:** [Access the scholarly article](https://doi.org/10.3390/educsci15030343)
 
 ### Summary of the Artefact
 
@@ -42,7 +40,6 @@ I selected this article because it relates directly to my life as a university s
 <img width="488" height="376" alt="image" src="https://github.com/user-attachments/assets/35ab3a09-4e5e-4d37-8280-63233d349bd8" />
 
 
-**Source:** [Access the scholarly article](https://doi.org/10.1007/s10805-024-09579-8)
 
 ### Summary of the Artefact
 
