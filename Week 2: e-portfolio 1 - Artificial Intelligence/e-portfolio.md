@@ -83,8 +83,8 @@ I used ChatGPT to interpret the requirements, organise the Markdown structure an
 
 ## References
 
-1. Andrade-Hidalgo, G, Mio-Cango, P & Iparraguirre-Villanueva, O 2025, ‘Exploring the impact of artificial intelligence on research ethics – a systematic review’, *Journal of Academic Ethics*, vol. 23, pp. 1053–1070, <https://doi.org/10.1007/s10805-024-09579-8>.
+1. Andrade-Hidalgo, G, Mio-Cango, P & Iparraguirre-Villanueva, O 2025, ‘Exploring the impact of artificial intelligence on research ethics – a systematic review’, *Journal of Academic Ethics*, vol. 23, pp. 1053–1070
 
-2. Canady, VA 2025, ‘Psychologists embrace AI, but ethical concerns loom large’, *Mental Health Weekly*, vol. 35, no. 47, pp. 5–6, <https://doi.org/10.1002/mhw.34694>.
+2. Canady, VA 2025, ‘Psychologists embrace AI, but ethical concerns loom large’, *Mental Health Weekly*, vol. 35, no. 47, pp. 5–6
 
-3. Vieriu, AM & Petrea, G 2025, ‘The impact of artificial intelligence (AI) on students’ academic development’, *Education Sciences*, vol. 15, no. 3, article 343, <https://doi.org/10.3390/educsci15030343>.
+3. Vieriu, AM & Petrea, G 2025, ‘The impact of artificial intelligence (AI) on students’ academic development’, *Education Sciences*, vol. 15, no. 3, article 343
