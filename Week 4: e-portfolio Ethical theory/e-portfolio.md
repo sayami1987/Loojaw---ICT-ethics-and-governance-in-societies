@@ -6,7 +6,8 @@ This e-portfolio applies ethical theories to contemporary ICT issues involving e
 
 ## Artefact 1: Ethical Hacker Finds a Critical Vulnerability in an Australian Government Website
 
-![ProQuest article about an ethical hacker finding a critical DFAT vulnerability](images/artefact-1-ethical-hacker-news.png)
+<img width="1274" height="758" alt="image" src="https://github.com/user-attachments/assets/9bd4976d-1ced-4dc6-9cf1-b905506a398b" />
+
 
 **Source:** [View the ProQuest article](https://www.proquest.com/newspapers/british-ethical-hacker-granted-rare-visa-after/docview/3289668582/se-2?accountid=10016)
 
