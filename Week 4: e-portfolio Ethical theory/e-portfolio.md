@@ -17,7 +17,7 @@ Kennedy reports the case of British cybersecurity specialist Jacob Riggs, who di
 
 ### Justification and Personal Reflection
 
-I chose this Australian case because, as an international IT student living in Sydney, it felt more relevant to me than a distant theoretical example. From a utilitarian perspective, Riggs’s action can be viewed positively because identifying and reporting the vulnerability could protect government systems and many users from future attacks. However, deontology made me question whether a good outcome automatically makes the method ethical if clear authorisation was not obtained first. I felt conflicted because his intention appears protective, but cybersecurity professionals also have a duty to respect boundaries and rules. This artefact taught me that ethical ICT practice is not only about achieving a useful outcome. Professionals must also consider how the outcome is achieved, who may be affected and whether their actions can be justified responsibly.
+I chose this Australian case because, as an international IT student living in Sydney, it felt personally relevant. **Act Utilitarianism** could support Riggs’s action because finding and reporting the vulnerability may have protected many users from future harm. **Kantianism**, however, made me question whether a beneficial result justifies accessing a system without clear authorisation. I felt conflicted because his intention was protective, but ICT professionals should also respect rules and boundaries. I learned that ethical practice requires considering both consequences and the morality of the action itself.
 
 ---
 
@@ -34,7 +34,7 @@ Romaniuk et al. examine how digital technologies such as social media, open scie
 
 ### Justification and Personal Reflection
 
-I chose this article because it helped me understand how ethical theories can be applied to an ordinary technology such as social media. From a deontological perspective, researchers have a duty to respect participants’ autonomy, privacy and informed consent even if collecting information online is faster and cheaper. A justice perspective also made me think about whether digital recruitment treats people fairly. Individuals without access to certain platforms may be excluded, while vulnerable groups may carry greater privacy risks than other participants. I felt concerned because technology can make research appear distant and anonymous, making it easier to forget that every dataset represents real individuals. This artefact taught me to ask not only whether technology improves efficiency, but also who benefits from it, who may be excluded and who carries the greatest risk.
+I chose this article because it helped me apply **Social Contract Theory and Kantianism** to digital research. Social Contract Theory made me think about the rights and responsibilities shared between researchers and participants, including privacy and informed consent. Kantianism also suggests that people should be respected as individuals rather than treated merely as sources of data. I felt concerned that technology can make personal information seem distant or anonymous. I learned that efficient data collection should never remove an ICT professional’s responsibility to protect people’s autonomy and privacy.
 
 ---
 
