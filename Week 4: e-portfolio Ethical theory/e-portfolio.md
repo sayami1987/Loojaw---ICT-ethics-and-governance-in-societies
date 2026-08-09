@@ -23,7 +23,8 @@ I chose this Australian case because, as an international IT student living in S
 
 ## Artefact 2: Ethical Issues in Social Media Research
 
-![Title page of the article about technology and ethics in social science research](images/artefact-2-social-science-ethics.png)
+<img width="766" height="661" alt="image" src="https://github.com/user-attachments/assets/f188bb75-7443-42e7-9a16-c02299d72ce2" />
+
 
 **Source:** [Access the scholarly article](https://doi.org/10.24425/ijet.2025.153559)
 
