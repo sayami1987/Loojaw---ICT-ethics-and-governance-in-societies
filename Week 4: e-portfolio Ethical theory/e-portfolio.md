@@ -40,6 +40,8 @@ I chose this article because it helped me understand how ethical theories can be
 
 ## Artefact 3: Legal and Ethical Responsibilities of Ethical Hackers
 
+<img width="1343" height="750" alt="image" src="https://github.com/user-attachments/assets/5c57d9c5-eff8-4bf5-8346-31e7077d527f" />
+
 **Source:** [The Legal and Ethical Aspects of Ethical Hacking: Understanding Your Responsibilities](https://www.eicta.iitk.ac.in/knowledge-hub/ethical-hacking/the-legal-and-ethical-aspects-of-ethical-hacking-understanding-your-responsibilities)
 
 ### Summary of the Artefact
