@@ -59,7 +59,8 @@ I selected this artefact because it helped me connect virtue ethics with the kin
 | **Campus** | Sydney |
 | **Workshop topic** | Ethical Theory |
 
-![Uploading image.png…]()
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/e8c9c966-35d5-4e12-b9f5-d4bf4c0d0eb7" />
+
 
 
 ### Summary of the Artefact
