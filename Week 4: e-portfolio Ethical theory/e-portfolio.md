@@ -12,11 +12,11 @@ This e-portfolio applies ethical theories to contemporary ICT issues involving e
 
 ### Summary of the Artefact
 
-Kennedy reports that cybersecurity specialist Jacob Riggs found a critical vulnerability in the Australian Department of Foreign Affairs and Trade website and disclosed it to DFAT. He was later recognised by the department and received Australia’s National Innovation Visa. The case shows how hacking skills can protect or harm systems depending on purpose, permission and responsible disclosure (Kennedy, 2026).
+Kennedy reports the case of British cybersecurity specialist Jacob Riggs, who discovered a critical vulnerability in the Australian Department of Foreign Affairs and Trade website. He reportedly found the vulnerability in less than two hours and then informed DFAT about the problem. The department recognised his disclosure, and he later received Australia’s National Innovation Visa. The article also highlights the increasing demand for cybersecurity professionals as organisations face more complex digital threats. This case interested me because it demonstrates the difficult boundary between hacking that causes harm and hacking that is intended to improve security. The result may be beneficial, but questions about permission, responsibility and professional conduct still remain (Kennedy, 2026).
 
 ### Justification and Personal Reflection
 
-I chose this Australian case because, as an international IT student in Sydney, it felt personally relevant. Utilitarianism could support Riggs’s action because disclosure helped protect users and the government system. Deontology, however, made me question whether a good outcome can justify access without clear permission. I felt conflicted because his intention was protective, but ethical practice also requires respecting rules and boundaries. I learned that responsible ICT decisions require both beneficial outcomes and acceptable methods.
+I chose this Australian case because, as an international IT student living in Sydney, it felt more relevant to me than a distant theoretical example. From a utilitarian perspective, Riggs’s action can be viewed positively because identifying and reporting the vulnerability could protect government systems and many users from future attacks. However, deontology made me question whether a good outcome automatically makes the method ethical if clear authorisation was not obtained first. I felt conflicted because his intention appears protective, but cybersecurity professionals also have a duty to respect boundaries and rules. This artefact taught me that ethical ICT practice is not only about achieving a useful outcome. Professionals must also consider how the outcome is achieved, who may be affected and whether their actions can be justified responsibly.
 
 ---
 
@@ -28,11 +28,11 @@ I chose this Australian case because, as an international IT student in Sydney, 
 
 ### Summary of the Artefact
 
-Romaniuk et al. explain that social media can help researchers reach marginalised groups and reduce recruitment cost and time. However, online recruitment raises concerns about confidentiality, informed consent, data protection and exclusion of people who do not use particular platforms. The authors emphasise that online research still involves real human participants whose interests must be protected (Romaniuk et al., 2025, pp. 171-173).
+Romaniuk et al. examine how digital technologies such as social media, open science and generative AI are changing social science research. Social media can help researchers recruit people from hard-to-reach or marginalised communities while also reducing the time and cost involved in finding participants. However, the article identifies important ethical concerns involving confidentiality, informed consent, data protection and the possibility of excluding people who do not use particular online platforms. Online surveys may also be affected by bots, scammers or unreliable participants. The authors emphasise that researchers should remember that online data represents real people, even when there is no face-to-face contact. Responsible research therefore requires clear information, privacy protection and careful consideration of possible harm (Romaniuk et al., 2025, pp. 171–173).
 
 ### Justification and Personal Reflection
 
-I chose this article because it made ethical theory practical. From a deontological perspective, researchers have a duty to respect participants’ privacy and autonomy even when efficient data collection benefits the project. A justice perspective also made me consider whether digital recruitment unfairly excludes some people or places greater risk on vulnerable groups. I learned to ask who benefits, who carries the risk and whose rights could be overlooked.
+I chose this article because it helped me understand how ethical theories can be applied to an ordinary technology such as social media. From a deontological perspective, researchers have a duty to respect participants’ autonomy, privacy and informed consent even if collecting information online is faster and cheaper. A justice perspective also made me think about whether digital recruitment treats people fairly. Individuals without access to certain platforms may be excluded, while vulnerable groups may carry greater privacy risks than other participants. I felt concerned because technology can make research appear distant and anonymous, making it easier to forget that every dataset represents real individuals. This artefact taught me to ask not only whether technology improves efficiency, but also who benefits from it, who may be excluded and who carries the greatest risk.
 
 ---
 
@@ -42,12 +42,11 @@ I chose this article because it made ethical theory practical. From a deontologi
 
 ### Summary of the Artefact
 
-The EICTA Consortium at IIT Kanpur explains that ethical hacking should occur with explicit authorisation and within agreed boundaries. Its guidance emphasises privacy, minimal harm, confidentiality, legal compliance, integrity and transparency. Ethical hackers should report vulnerabilities to system owners and maintain professional knowledge as cybersecurity threats change (EICTA Content Team, 2025).
+This professional article explains that ethical hacking involves more than having the technical ability to identify vulnerabilities. Ethical hackers should have clear authorisation, remain within an agreed scope and avoid unnecessary harm to systems, organisations and individuals. Important responsibilities include respecting privacy, protecting confidential information, following relevant laws and reporting discovered vulnerabilities responsibly. The article also emphasises integrity, transparency and continued professional development because cybersecurity threats and technologies change quickly. I found this useful because the same technical activity can be considered defensive or harmful depending on the intention, permission and behaviour of the person performing it. Therefore, ethical hacking requires both technical competence and strong professional judgement.
 
 ### Justification and Personal Reflection
 
-I selected this source because it helped me connect virtue ethics to my future ICT career. Virtue ethics focuses on the character of the decision-maker. I realised that honesty, restraint, responsibility and integrity matter because technical skills can also be misused. I liked this perspective because it made ethics feel personal. Being technically skilled is not enough; I also need professional values that guide how I use those skills when facing difficult choices.
-
+I selected this artefact because it helped me connect virtue ethics with the kind of ICT professional I want to become. Virtue ethics focuses on personal character rather than looking only at rules or consequences. In cybersecurity, qualities such as honesty, integrity, restraint, responsibility and trustworthiness are important because professionals may have access to sensitive systems and information. I felt this theory was particularly meaningful because technical knowledge can be used for either protection or exploitation. A person may know how to break into a system, but having the ability does not mean they should use it without permission. This made me realise that becoming a good ICT professional requires more than learning programming, networking or security tools. I also need ethical judgement and professional values that guide how I use those skills.
 ---
 
 ## Artefact 4: Week 4 Workshop Attendance and Personal Reflection
@@ -60,21 +59,34 @@ I selected this source because it helped me connect virtue ethics to my future I
 | **Campus** | Sydney |
 | **Workshop topic** | Ethical Theory |
 
-![My Week 4 workshop attendance evidence](images/week-4-workshop-selfie.jpg)
+![Uploading image.png…]()
+
 
 ### Summary of the Artefact
 
-The Week 4 workshop focused on ethical theory and how different frameworks can produce different judgements about an ICT decision. Comparing consequences, duties and personal character helped me understand why technology-related ethical problems may not have one simple answer. The workshop connected ethical reasoning with professional responsibility and the effects of technical decisions on other people.
+During the Week 4 workshop, we discussed five ethical theories: **Kantianism, Act Utilitarianism, Rule Utilitarianism, Social Contract Theory and Virtue Ethics**. I learned that each theory approaches an ethical problem differently. Act Utilitarianism considers whether a particular action produces more overall benefit than harm, whereas Rule Utilitarianism considers whether following a general rule would produce greater overall happiness. Kantianism focuses on duties, universal moral rules and treating people as ends rather than merely as means. Social Contract Theory considers rights, duties and rules that rational people accept for mutual benefit. Virtue Ethics focuses on a person’s character and asks what a virtuous person would do.
 
 ### Justification and Personal Reflection
 
-I chose the workshop because it changed how I think about ethical problems. Before studying ethical theory, I mostly judged an action by whether it produced a useful result. I now feel more cautious because a beneficial outcome can still violate someone’s rights or be achieved unfairly. Utilitarianism, deontology and virtue ethics give me different questions to ask. As a future ICT professional, I should consider consequences, duties and character rather than only the fastest technical solution.
+I chose the workshop as an artefact because comparing these theories changed the way I think about ethical ICT decisions. Before Week 4, I usually focused on whether a technology worked successfully or produced a useful outcome. I now realise that the same action can be judged differently depending on the ethical framework. I found this interesting because there is not always one simple answer. Act Utilitarianism makes me think about immediate consequences, while Rule Utilitarianism makes me consider what would happen if everyone followed the same rule. Kantianism makes me consider duties and respect for people, Social Contract Theory makes me think about rights and fairness, and Virtue Ethics makes me question what kind of professional I want to be. I now feel more careful when making ethical judgements.
+
+---
+
+## My Understanding of the Five Ethical Theories
+
+| Ethical Theory | What I Learned |
+|---|---|
+| **Kantianism** | An action should follow moral duties and rules that could reasonably apply universally. People should be respected as ends in themselves rather than used merely as a means. |
+| **Act Utilitarianism** | Each individual action should be judged according to whether its consequences create more overall benefit or happiness than harm. |
+| **Rule Utilitarianism** | We should follow moral rules whose general adoption would create the greatest overall benefit or happiness. |
+| **Social Contract Theory** | Moral behaviour depends on rights, duties and rules that rational members of society accept because cooperation benefits everyone. |
+| **Virtue Ethics** | Ethical behaviour depends on good character. A person should develop virtues such as honesty, courage, fairness, responsibility and integrity. |
 
 ---
 
 ## Use of Artificial Intelligence Tools
 
-I used ChatGPT during the planning stage to check the assessment requirements, review the suitability of my selected sources, organise the Markdown structure and develop an initial draft. I checked the source details and will ensure the final portfolio reflects my own workshop experience and understanding.
+I used ChatGPT during the planning stage to understand the assessment requirements, organise my selected artefacts and develop an initial structure for my summaries and reflections. I provided the Week 4 ethical theory readings so that the portfolio could be linked to the theories actually discussed in class. I checked the information against the original sources and personalised the reflections to represent my own understanding and learning.
 
 ---
 
@@ -84,4 +96,6 @@ EICTA Content Team 2025, ‘The legal and ethical aspects of ethical hacking: un
 
 Kennedy, E 2026, ‘British ethical hacker granted rare visa after finding “critical vulnerability” in government site’, *The Australian*, 1 January, ProQuest One Academic, viewed 10 August 2026, <https://www.proquest.com/newspapers/british-ethical-hacker-granted-rare-visa-after/docview/3289668582/se-2?accountid=10016>.
 
-Romaniuk, MW, Gierzyński, J, Pietrzak, M & Zbróg, J 2025, ‘Integrating technology in social science research: emerging trends and ethical considerations’, *International Journal of Electronics and Telecommunications*, vol. 71, no. 1, pp. 171-179, <https://doi.org/10.24425/ijet.2025.153559>.
+Quinn, MJ 2019, *Ethics for the Information Age*, Pearson, sections 2.6–2.10.
+
+Romaniuk, MW, Gierzyński, J, Pietrzak, M & Zbróg, J 2025, ‘Integrating technology in social science research: emerging trends and ethical considerations’, *International Journal of Electronics and Telecommunications*, vol. 71, no. 1, pp. 171–179, <https://doi.org/10.24425/ijet.2025.153559>.
