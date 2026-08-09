@@ -97,10 +97,10 @@ I used ChatGPT during the planning stage to understand the assessment requiremen
 
 ## References
 
-EICTA Content Team 2025, ‘The legal and ethical aspects of ethical hacking: understanding your responsibilities’, *EICTA Consortium, IIT Kanpur*, 16 March, viewed 10 August 2026, <https://www.eicta.iitk.ac.in/knowledge-hub/ethical-hacking/the-legal-and-ethical-aspects-of-ethical-hacking-understanding-your-responsibilities>.
+EICTA Content Team 2025, ‘The legal and ethical aspects of ethical hacking: understanding your responsibilities’, *EICTA Consortium, IIT Kanpur*, 16 March, viewed 10 August 2026
 
-Kennedy, E 2026, ‘British ethical hacker granted rare visa after finding “critical vulnerability” in government site’, *The Australian*, 1 January, ProQuest One Academic, viewed 10 August 2026, <https://www.proquest.com/newspapers/british-ethical-hacker-granted-rare-visa-after/docview/3289668582/se-2?accountid=10016>.
+Kennedy, E 2026, ‘British ethical hacker granted rare visa after finding “critical vulnerability” in government site’, *The Australian*, 1 January, ProQuest One Academic, viewed 10 August 2026
 
 Quinn, MJ 2019, *Ethics for the Information Age*, Pearson, sections 2.6–2.10.
 
-Romaniuk, MW, Gierzyński, J, Pietrzak, M & Zbróg, J 2025, ‘Integrating technology in social science research: emerging trends and ethical considerations’, *International Journal of Electronics and Telecommunications*, vol. 71, no. 1, pp. 171–179, <https://doi.org/10.24425/ijet.2025.153559>.
+Romaniuk, MW, Gierzyński, J, Pietrzak, M & Zbróg, J 2025, ‘Integrating technology in social science research: emerging trends and ethical considerations’, *International Journal of Electronics and Telecommunications*, vol. 71, no. 1, pp. 171–179
