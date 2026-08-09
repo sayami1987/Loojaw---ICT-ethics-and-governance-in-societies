@@ -50,8 +50,8 @@ This professional article explains that ethical hacking involves more than havin
 
 ### Justification and Personal Reflection
 
-I selected this artefact because it helped me connect virtue ethics with the kind of ICT professional I want to become. Virtue ethics focuses on personal character rather than looking only at rules or consequences. In cybersecurity, qualities such as honesty, integrity, restraint, responsibility and trustworthiness are important because professionals may have access to sensitive systems and information. I felt this theory was particularly meaningful because technical knowledge can be used for either protection or exploitation. A person may know how to break into a system, but having the ability does not mean they should use it without permission. This made me realise that becoming a good ICT professional requires more than learning programming, networking or security tools. I also need ethical judgement and professional values that guide how I use those skills.
----
+I selected this artefact because it helped me connect **Virtue Ethics and Rule Utilitarianism** to my future ICT career. Virtue Ethics made me think about qualities such as honesty, integrity, restraint and responsibility because technical skills can be used for either protection or exploitation. Rule Utilitarianism also supports a general rule that security testing should require authorisation and responsible disclosure. I found Virtue Ethics especially meaningful because it showed me that being a good ICT professional requires not only technical ability, but also good judgement and trustworthy character.
+
 
 ## Artefact 4: Week 4 Workshop Attendance and Personal Reflection
 
