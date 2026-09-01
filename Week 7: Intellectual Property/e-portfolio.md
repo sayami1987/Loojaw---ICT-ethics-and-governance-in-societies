@@ -23,6 +23,7 @@ I chose this artefact because it shows that AI copyright is not only an overseas
 
 ## Artefact 2: Australia Rejects a Copyright Exemption for AI Training
 
+<img width="1124" height="934" alt="image" src="https://github.com/user-attachments/assets/b8ae68f2-4bd6-409e-b083-802f656dd676" />
 
 
 **Source:** [ABC News – Federal government rules out changing copyright law to give AI companies free rein](https://www.abc.net.au/news/2025-10-27/labor-rules-out-ai-training-copyright-exceptions/105935740)
@@ -38,7 +39,6 @@ I chose this article because it is an Australian example and connects directly t
 
 ## Artefact 3: Copyrighted Works Used for Generative AI Training
 
-![Scholarly article about copyright and AI training](images/artefact-3-ai-training-copyright.png)
 
 **Source:** [Control and Compensation: A Comparative Analysis of Copyright Exceptions for Training Generative AI](https://doi.org/10.1007/s40319-025-01569-6)
 
