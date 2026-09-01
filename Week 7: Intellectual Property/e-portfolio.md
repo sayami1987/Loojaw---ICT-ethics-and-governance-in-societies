@@ -21,20 +21,19 @@ I chose this artefact because it shows that AI copyright is not only an overseas
 
 ---
 
-## Artefact 2: Music Companies Challenge AI Training
+## Artefact 2: Australia Rejects a Copyright Exemption for AI Training
 
-![News article about Sony and Warner Music suing Anthropic](images/artefact-2-anthropic-copyright.png)
+![ABC News article about AI training and Australian copyright](images/artefact-2-australian-ai-copyright.png)
 
-**Source:** [Reuters – Sony and Warner Music sue Anthropic over AI training](https://www.reuters.com/legal/government/sony-warner-music-sue-anthropic-over-songs-used-ai-training-2026-08-31/)
+**Source:** [ABC News – Federal government rules out changing copyright law to give AI companies free rein](https://www.abc.net.au/news/2025-10-27/labor-rules-out-ai-training-copyright-exceptions/105935740)
 
 ### Summary of the Artefact
 
-A recent copyright dispute involves Sony Music and Warner Music suing AI company Anthropic. The music companies allege that copyrighted song lyrics and sheet music were unlawfully used to train Anthropic’s Claude models and argue that AI-generated material can compete with legitimate copyrighted works. Anthropic has defended AI training as fair use. The case demonstrates the growing conflict between technology companies that require large datasets and creators who want control and compensation for their intellectual property (Reuters, 2026).
+An ABC News article reports that the Australian Government ruled out introducing a copyright exemption that would allow AI companies to freely use Australian creative works when training their models. The proposed change had caused strong concern among artists and other members of the creative sector, who argued that their work should not be used without permission or fair treatment. The issue highlights the tension between supporting the development of artificial intelligence and protecting the intellectual property rights of people who create music, writing, art and other original content (Truu, 2025).
 
 ### Justification and Personal Reflection
 
-I selected this case because it made the copyright issue feel current rather than theoretical. I use generative AI regularly, but I normally only see the final output and do not think about all the material that may have contributed to training the model. I felt concerned when considering that musicians and writers could lose control over how their creative work is used. At the same time, restricting all training data could slow useful innovation. This artefact helped me understand the compromise discussed in our workshop: intellectual property protection should reward creativity, but society also benefits when knowledge and technology can develop.
-
+I chose this article because it is an Australian example and connects directly to what we discussed in Week 7 about copyright and AI. I initially thought allowing AI companies greater access to data might simply help technology improve faster. However, I felt differently when I considered that the training material represents work created by real people who may depend on it for income. I believe innovation is important, but creators should not lose control of their work simply because it can be collected digitally. This artefact helped me understand the workshop idea that intellectual property protection involves balancing benefits to society with fair recognition and protection for creators.
 ---
 
 ## Artefact 3: Copyrighted Works Used for Generative AI Training
