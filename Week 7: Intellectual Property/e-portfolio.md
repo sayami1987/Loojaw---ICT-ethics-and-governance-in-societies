@@ -33,11 +33,14 @@ I chose this artefact because it shows that AI copyright is not only an overseas
 An ABC News article reports that the Australian Government ruled out introducing a copyright exemption that would allow AI companies to freely use Australian creative works when training their models. The proposed change had caused strong concern among artists and other members of the creative sector, who argued that their work should not be used without permission or fair treatment. The issue highlights the tension between supporting the development of artificial intelligence and protecting the intellectual property rights of people who create music, writing, art and other original content (Truu, 2025).
 
 ### Justification and Personal Reflection
--
+
 I chose this article because it is an Australian example and connects directly to what we discussed in Week 7 about copyright and AI. I initially thought allowing AI companies greater access to data might simply help technology improve faster. However, I felt differently when I considered that the training material represents work created by real people who may depend on it for income. I believe innovation is important, but creators should not lose control of their work simply because it can be collected digitally. This artefact helped me understand the workshop idea that intellectual property protection involves balancing benefits to society with fair recognition and protection for creators.
+
 ---
 
 ## Artefact 3: Copyrighted Works Used for Generative AI Training
+
+<img width="1089" height="820" alt="image" src="https://github.com/user-attachments/assets/596d4c8f-c59b-4ed7-af93-1bc4f95d08b9" />
 
 
 **Source:** [Control and Compensation: A Comparative Analysis of Copyright Exceptions for Training Generative AI](https://doi.org/10.1007/s40319-025-01569-6)
