@@ -6,7 +6,8 @@ This e-portfolio demonstrates what I learned about intellectual property, partic
 
 ## Artefact 1: Copyright and Artificial Intelligence in Australia
 
-![Australian Government Copyright and AI consultation](images/artefact-1-australian-copyright-ai.png)
+<img width="664" height="704" alt="image" src="https://github.com/user-attachments/assets/ec4e8567-bd49-413d-a263-aa17e88f564a" />
+
 
 **Source:** [Australian Government – Copyright and AI Transparency Discussion Paper](https://www.ag.gov.au/rights-and-protections/publications/copyright-and-ai-transparency-discussion-paper)
 
@@ -62,7 +63,6 @@ I chose this scholarly article because it helped me see that there is no simple 
 | **Campus** | Sydney |
 | **Workshop topic** | Intellectual Property |
 
-![My Week 7 workshop attendance evidence](images/week-7-workshop-selfie.jpg)
 
 ### Summary of the Artefact
 
