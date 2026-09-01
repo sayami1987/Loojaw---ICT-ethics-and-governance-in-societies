@@ -84,10 +84,10 @@ I used ChatGPT during the planning and research stage to understand the portfoli
 
 ## References
 
-Attorney-General’s Department 2025, ‘Copyright and AI – transparency discussion paper’, *Australian Government*, 4 February, <https://www.ag.gov.au/rights-and-protections/publications/copyright-and-ai-transparency-discussion-paper>.
+Attorney-General’s Department 2025, ‘Copyright and AI – Transparency discussion paper’, *Australian Government*, 4 February, <https://www.ag.gov.au/rights-and-protections/publications/copyright-and-ai-transparency-discussion-paper>.
 
-de la Durantaye, K 2025, ‘Control and compensation: a comparative analysis of copyright exceptions for training generative AI’, *International Review of Intellectual Property and Competition Law*, vol. 56, pp. 737–770, <https://doi.org/10.1007/s40319-025-01569-6>.
+de la Durantaye, K 2025, ‘Control and compensation: a comparative analysis of copyright exceptions for training generative AI’, *IIC - International Review of Intellectual Property and Competition Law*, vol. 56, pp. 737–770, <https://doi.org/10.1007/s40319-025-01569-6>.
 
-Guadamuz, A 2018, ‘Can the monkey selfie case teach us anything about copyright law?’, *World Intellectual Property Organization*, 21 February, <https://www.wipo.int/en/web/wipo-magazine/articles/can-the-monkey-selfie-case-teach-us-anything-about-copyright-law-40287>.
+Guadamuz, A 2018, ‘Can the monkey selfie case teach us anything about copyright law?’, *WIPO Magazine*, 21 February, World Intellectual Property Organization, <https://www.wipo.int/en/web/wipo-magazine/articles/can-the-monkey-selfie-case-teach-us-anything-about-copyright-law-40287>.
 
-Reuters 2026, ‘Sony, Warner Music sue Anthropic over songs used in AI training’, 31 August, <https://www.reuters.com/legal/government/sony-warner-music-sue-anthropic-over-songs-used-ai-training-2026-08-31/>.
+Truu, M 2025, ‘Federal government rules out changing copyright law to give AI companies free rein’, *ABC News*, 27 October, <https://www.abc.net.au/news/2025-10-27/labor-rules-out-ai-training-copyright-exceptions/105935740>.
