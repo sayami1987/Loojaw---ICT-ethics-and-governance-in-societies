@@ -78,7 +78,7 @@ I chose this workshop example because it made the idea of authorship much easier
 
 ## Use of Artificial Intelligence Tools
 
-I used ChatGPT during the planning and research stage to understand the portfolio requirements, identify relevant contemporary intellectual-property issues and organise an initial Markdown structure. I checked the selected sources against their original publications and will ensure that my final workshop reflection represents my own experience and understanding.
+I used AI during the planning and research stage to understand the portfolio requirements, identify relevant contemporary intellectual-property issues and organise an initial Markdown structure. I checked the selected sources against their original publications and will ensure that my final workshop reflection represents my own experience and understanding.
 
 ---
 
