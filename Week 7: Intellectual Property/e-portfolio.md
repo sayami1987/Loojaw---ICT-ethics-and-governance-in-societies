@@ -70,7 +70,10 @@ I chose this scholarly article because it helped me see that there is no simple 
 
 ### Summary of the Artefact
 
-A key idea from the Week 7 workshop was the **Monkey Selfie copyright dispute**. Photographer David Slater prepared the camera and environment, but a macaque pressed the shutter and created the photographs. The dispute raised the question of who could be considered the author. The workshop connected this case to AI because AI systems also produce content without being human creators. Under current approaches discussed in class, human authorship remains important and AI itself cannot own copyright.
+During the Week 7 workshop, we discussed Intellectual Property, including copyright, AI-generated works and the Monkey Selfie copyright dispute. In that case, photographer David Slater prepared the camera and environment, but the macaque pressed the shutter, raising the question of who should be recognised as the creator. We then connected this issue to AI-generated content and discussed whether AI can own copyright and how much human involvement is needed for authorship.
+
+In my view, the person who provides meaningful creative direction should have a stronger claim than the technology itself. However, simply owning a camera or entering a very basic AI prompt may not always be enough to prove authorship. I found this interesting because AI is making the idea of “creator” much less straightforward than I previously thought.
+
 
 ### Justification and Personal Reflection
 
