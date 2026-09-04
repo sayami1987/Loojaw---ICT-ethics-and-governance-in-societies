@@ -65,6 +65,8 @@ I chose this scholarly article because it helped me see that there is no simple 
 | **Campus** | Sydney |
 | **Workshop topic** | Intellectual Property |
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/6540f4c8-9c5f-4572-8e2b-9d35ae587efc" />
+
 
 ### Summary of the Artefact
 
