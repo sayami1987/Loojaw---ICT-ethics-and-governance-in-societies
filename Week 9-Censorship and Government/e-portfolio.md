@@ -60,7 +60,6 @@ I chose this artefact because it challenged my assumption that censorship mainly
 | Workshop Detail | Information |
 |---|---|
 | **Workshop week** | Week 9 |
-| **Day and date** |  |
 | **Tutor** | Umapathy Venugopal |
 | **Campus** | Sydney |
 | **Workshop topic** | Censorship and Government |
