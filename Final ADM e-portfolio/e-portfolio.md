@@ -77,8 +77,7 @@ I chose this because it focuses on the person affected rather than only the agen
 
 ## Artefact 5: What research says about ADM in public administration
 
-<!-- Add a screenshot of the first page of the journal article. Save it as images/artefact-5-journal.png -->
-![Rizk and Lindgren journal article on ADM in public administration](images/artefact-5-journal.png)
+<img width="1053" height="772" alt="image" src="https://github.com/user-attachments/assets/6c63ee2d-4814-4588-a9f3-f7ced36de8da" />
 
 **Source:** [Rizk and Lindgren – Automated decision-making in public administration: Changing the decision space between public officials and citizens (2025)](https://doi.org/10.1016/j.giq.2025.102061)
 
