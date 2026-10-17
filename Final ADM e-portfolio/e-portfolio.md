@@ -93,8 +93,8 @@ I included this article because it gave me a broader view than the policy docume
 
 ## Artefact 6: Canada's Claim Summary Tool for veterans
 
-<!-- Add a screenshot of the Veterans Affairs Canada Claim Summary Tool page or its Algorithmic Impact Assessment. Save it as images/artefact-6-canada-cst.png -->
-![Veterans Affairs Canada Claim Summary Tool](images/artefact-6-canada-cst.png)
+<img width="1512" height="908" alt="image" src="https://github.com/user-attachments/assets/095395ed-7e91-4444-9c33-3e1e0978fd7d" />
+
 
 **Source:** [Veterans Affairs Canada – Claim Summary Tool (2026)](https://www.veterans.gc.ca/en/mental-and-physical-health/physical-health-and-wellness/compensation-illness-or-injury/disability-benefits/claim-summary-tool)
 
