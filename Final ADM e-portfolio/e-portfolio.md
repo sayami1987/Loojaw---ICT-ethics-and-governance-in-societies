@@ -60,8 +60,8 @@ I selected this because Robodebt shows that ADM can directly affect people who d
 
 ## Artefact 4: Human rights protections for government ADM
 
-<!-- Add a screenshot of the AHRC submission heading and key recommendations. Save it as images/artefact-4-ahrc.png -->
-![Australian Human Rights Commission submission on ADM](images/artefact-4-ahrc.png)
+<img width="1834" height="892" alt="image" src="https://github.com/user-attachments/assets/441bc65b-7601-443e-8e60-9c5bccf41f4c" />
+
 
 **Source:** [Australian Human Rights Commission – Use of automated decision making by government (2025)](https://humanrights.gov.au/resource-hub/by-resource-type/submissions/use-of-automated-decision-making-by-government)
 
