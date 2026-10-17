@@ -43,8 +43,8 @@ This changed my view that ethical technology is mainly about whether a model is 
 
 ## Artefact 3: Robodebt and the need for review rights
 
-<!-- Add a screenshot of Recommendation 17.1 in the March 2026 implementation update. Save it as images/artefact-3-robodebt.png -->
-![Robodebt Royal Commission implementation update](images/artefact-3-robodebt.png)
+<img width="1777" height="906" alt="image" src="https://github.com/user-attachments/assets/f81f3b85-a1f8-480c-8a66-f37cc4fe4e58" />
+
 
 **Source:** [Department of the Prime Minister and Cabinet – Robodebt Royal Commission Implementation Update, March 2026](https://www.pmc.gov.au/sites/default/files/resource/download/robodebt-royal-commission-implementation-update-march-2026.pdf)
 
