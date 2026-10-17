@@ -9,8 +9,8 @@ Automated decision-making (ADM) uses technology to make or support decisions. In
 
 ## Artefact 1: Transparency of ADM in Australian government
 
-<!-- Add a screenshot of the OAIC report heading and key findings. Save it as images/artefact-1-oaic.png -->
-![OAIC report on automated decision-making transparency](images/artefact-1-oaic.png)
+<img width="1195" height="913" alt="image" src="https://github.com/user-attachments/assets/d68dce04-0ba2-41f7-86c1-d44020eefceb" />
+
 
 **Source:** [Office of the Australian Information Commissioner – Automated decision-making and public reporting under the Freedom of Information Act (2026)](https://www.oaic.gov.au/freedom-of-information/information-commissioner-decisions-and-reports/foi-reports/Automated-decision-making-and-public-reporting-under-the-Freedom-of-Information-Act)
 
