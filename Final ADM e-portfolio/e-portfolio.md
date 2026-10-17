@@ -26,8 +26,8 @@ I chose this because transparency is easy to talk about but harder to see in pra
 
 ## Artefact 2: Australia's responsible AI policy for government
 
-<!-- Add a screenshot of the DTA policy heading and the mandatory requirements. Save it as images/artefact-2-dta-policy.png -->
-![Digital Transformation Agency responsible AI policy](images/artefact-2-dta-policy.png)
+<img width="1364" height="935" alt="image" src="https://github.com/user-attachments/assets/e256bd04-b1f0-47bf-8d85-41884b0064e3" />
+
 
 **Source:** [Digital Transformation Agency – Policy for the responsible use of AI in government, version 2.0 (2025)](https://www.digital.gov.au/ai/ai-in-government-policy)
 
